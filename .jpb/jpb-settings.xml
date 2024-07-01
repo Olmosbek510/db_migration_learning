@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PersistenceUnitSettings">
+    <persistence-units>
+      <persistence-unit moduleName="migration_tools_db_pt1" name="Default">
+        <packages>
+          <package value="uz.inha.migration_tools_db_pt1" />
+        </packages>
+      </persistence-unit>
+    </persistence-units>
+  </component>
+</project>

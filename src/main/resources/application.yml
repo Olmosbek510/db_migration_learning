@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: migration_tools_db_pt1
+  datasource:
+    url: jdbc:postgresql://localhost:5433/migration-tool-learning-db
+    username: postgres
+    password: root123
+    driverClassName: org.postgresql.Driver
+  jpa:
+#    hibernate:
+#      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
