@@ -1,0 +1,1 @@
+alter table book rename column created_user to author
