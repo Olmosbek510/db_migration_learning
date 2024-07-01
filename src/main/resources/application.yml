@@ -2,7 +2,7 @@ spring:
   application:
     name: migration_tools_db_pt1
   datasource:
-    url: jdbc:postgresql://localhost:5433/migration-tool-learning-db
+    url: jdbc:postgresql://localhost:5433/migration-tool-learning-db-test
     username: postgres
     password: root123
     driverClassName: org.postgresql.Driver
